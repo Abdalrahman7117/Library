@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|c:\\users\\abo salah pc\\desktop\\library\\library\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|solutionrelative:library\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|c:\\users\\abo salah pc\\desktop\\library\\library\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|solutionrelative:library\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|c:\\users\\abo salah pc\\desktop\\library\\library\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|solutionrelative:library\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|c:\\users\\abo salah pc\\desktop\\library\\library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|solutionrelative:library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|c:\\users\\abo salah pc\\desktop\\library\\library\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3730988B-0D3D-4DCA-9B0D-6C8F1C57287D}|Library\\Library.csproj|solutionrelative:library\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Library\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Window1.xaml.cs",
+              "RelativeToolTip": "Library\\Window1.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADgv08AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:47:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Window1.xaml",
+              "RelativeDocumentMoniker": "Library\\Window1.xaml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Window1.xaml",
+              "RelativeToolTip": "Library\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T20:03:48.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Model1.edmx",
+              "RelativeDocumentMoniker": "Library\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Library\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-17T19:52:20.397Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\MainWindow.xaml",
+              "RelativeToolTip": "Library\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T19:35:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\Library\\Library\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwCYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:35:31.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
